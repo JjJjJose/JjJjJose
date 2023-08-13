@@ -10,7 +10,7 @@
 ### Main skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg) [![My Skills](https://skillicons.dev/icons?i=js,)](https://skillicons.dev)
 #### studying in the moment :
-
+ [![My Skills](https://skillicons.dev/icons?i=cs,)](https://skillicons.dev)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ABE03F&height=120&section=footer"/>
