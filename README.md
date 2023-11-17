@@ -4,6 +4,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JjJjJose&bg_color=010F01&color=bef945&line=abe03f&point=5d7a22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-###Main languages
+Main languages
 
 JAVASCRIPT,PHP, MYSQL
