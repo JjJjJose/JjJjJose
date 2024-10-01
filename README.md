@@ -8,4 +8,4 @@ if you need help with anything just drop a message on my discord : .filosofo
 
 ![](https://komarev.com/ghpvc/?username=JjJjJose)
 
-![](https://www.holopin.io/hacktoberfest2024/userbadge/cm1q45n82248530clgpd5bs2fs?balloons=true)
+[![An image of @jjjjjose's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jjjjjose)](https://holopin.io/@jjjjjose)
