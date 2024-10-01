@@ -8,3 +8,4 @@ if you need help with anything just drop a message on my discord : .filosofo
 
 ![](https://komarev.com/ghpvc/?username=JjJjJose)
 
+![](cm1q45n82248530clgpd5bs2fs)
